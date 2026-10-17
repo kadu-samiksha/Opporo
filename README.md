@@ -4,6 +4,12 @@
 
 Oppora is a personal internship and job application tracker. It runs entirely in the browser with no backend, no login and no paid APIs.
 
+**Live demo:** https://your-deployed-url
+
+## Deployment
+
+Deployed on <Vercel/Netlify/GitHub Pages>. Build command: `npm run build`, output directory: `dist`.
+
 ## Run it
 
 ```bash
