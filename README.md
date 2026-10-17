@@ -4,7 +4,7 @@
 
 Oppora is a personal internship and job application tracker. It runs entirely in the browser with no backend, no login and no paid APIs.
 
-**Live demo:** https://your-deployed-url
+**Live demo:** https://oppora.netlify.app/
 
 ## Deployment
 
