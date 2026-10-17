@@ -13,6 +13,12 @@ Students and early-career job seekers who apply to many roles at once and lose t
 - How am I preparing for each interview?
 - How many applications turn into interviews and offers?
 
+**Live demo:** https://oppora.netlify.app/
+
+## Deployment
+
+Deployed on Netlify . Build command: `npm run build`, output directory: `dist`.
+
 ## Tech stack
 
 | Area | Choice |
